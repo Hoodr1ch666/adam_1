@@ -336,7 +336,7 @@ body {
 .explore::after {
    content: "";
    position: absolute;
-   background-image: url(./img/arrow.svg);
+   background-image: url(../img/arrow.svg);
    background-repeat: no-repeat;
    width: 24px;
    height: 24px;
@@ -648,7 +648,7 @@ body {
 .imga::after {
    content: "";
    position: absolute;
-   background-image: url(/img/Mask.svg);
+   background-image: url(../img/Mask.svg);
    background-repeat: no-repeat;
    width: 70px;
    height: 70px;
@@ -663,7 +663,7 @@ body {
 .imga-one::after {
    content: "";
    position: absolute;
-   background-image: url(/img/Mask1.svg);
+   background-image: url(../img/Mask1.svg);
    background-repeat: no-repeat;
    width: 70px;
    height: 70px;
@@ -678,7 +678,7 @@ body {
 .imga-two::after {
    content: "";
    position: absolute;
-   background-image: url(/img/Mask2.svg);
+   background-image: url(../img/Mask2.svg);
    background-repeat: no-repeat;
    width: 70px;
    height: 70px;
@@ -693,7 +693,7 @@ body {
 .imga-three::after {
    content: "";
    position: absolute;
-   background-image: url(/img/Mask3.svg);
+   background-image: url(../img/Mask3.svg);
    background-repeat: no-repeat;
    width: 70px;
    height: 70px;
